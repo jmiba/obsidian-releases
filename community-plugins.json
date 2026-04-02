@@ -19109,6 +19109,12 @@
     "description": "Switch between different work roles (developer, writer, researcher, etc.) with intentional transitions and session tracking.",
     "repo": "zafrem/obsidian-role-switch"
   },
+  { "id": "zotero-redisearch-rag",
+    "name": "Zotero Research Assistant", 
+    "author": "Jens Mittelbach", 
+    "description": "Import and OCR Zotero PDFs using a Docling pipeline, sync metadata including annotations, and chat with your research literature using local Redis-powered RAG.",
+    "repo": "jmiba/zotero-redisearch-rag" 
+  },
   {
     "id": "double-click-image-opener",
     "name": "Double-Click Image Opener",
